@@ -1,1 +1,1 @@
-newproject  jenkins
+newproject  jenkins yes
